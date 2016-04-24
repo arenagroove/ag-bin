@@ -1,0 +1,18 @@
+# npm debugging logs
+*.log
+
+# project dependencies
+node_modules
+
+# temporary files
+*.tmp
+*~
+
+#windows
+*.bat
+
+*.DS_Store
+.sass-cache
+.tmp
+tests/bower_components
+
